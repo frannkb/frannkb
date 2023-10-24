@@ -18,3 +18,4 @@
 </div>
 -->
 <a href="https://www.linkedin.com/in/frannkbruno/" target="_blanck" /><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.duolingo.com/profile/frannkb" target="_blanck"/><img src="https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white">
