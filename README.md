@@ -1,5 +1,3 @@
-# 👩🏻‍💻 Larissa Kich
-
 **`Not Dev`**
 
 ## Frank Bruno! :v::sunglasses:
